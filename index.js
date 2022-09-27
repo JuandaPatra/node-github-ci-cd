@@ -9,7 +9,7 @@ app.get('/', (req, res)=>{
 })
 
 app.get('/demo', (req,res)=>{
-    res.status(200).send(`<h1>Demo page</h1>`)
+    res.status(200).sed(`<h1>Dsasasemo page</h1>`)
 })
 
 
